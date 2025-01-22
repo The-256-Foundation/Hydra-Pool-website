@@ -5,14 +5,14 @@
 ## Scope:
 One Project Manager position and one to four engineer positions to fulfill the mission of The 256 Foundation, “Dismantle the proprietary mining empire to make Bitcoin and freedom tech accessible to anyone”. This grant proposal aims to secure funding for:
 
-    • One project manager to oversee and ensure mission adherence, timeliness, and execution. 
-    • One to four engineers to develop the Hydra Pool software.
-    • Hydra Pool specifics: Fully open-source “one-click” deployable Bitcoin mining software packaged with a full node and Stratum v1/v2 server support.   
-    • User-friendly dashboard.
-    • Dockerized or at least multi-OS builds. 
-    • Supporting documentation and specifications. 
-    • This project is fully open-source GPL licensed.
-    • Excluded from this proposal are sales, distribution, marketing, and customer technical support.
+* One project manager to oversee and ensure mission adherence, timeliness, and execution. 
+* One to four engineers to develop the Hydra Pool software.
+* Hydra Pool specifics: Fully open-source “one-click” deployable Bitcoin mining software packaged with a full node and Stratum v1/v2 server support.   
+* User-friendly dashboard.
+* Dockerized or at least multi-OS builds. 
+* Supporting documentation and specifications. 
+* This project is fully open-source GPL licensed.
+* Excluded from this proposal are sales, distribution, marketing, and customer technical support.
 
 In summary, the Hydra Pool project delivers an open-source, multi-OS compatible, “one-click” deployable Bitcoin mining pool software featuring full node and stratum server support. The basic idea is to lower the barrier to entry required for spinning up a Bitcoin mining pool. The intent behind the term “one-click” deployable here means making the software as easy to run as possible, for example, if a user wanted to self-host or rent a VPS they download Hydra Pool, set a few configuration parameters guided by a wizard, and have a fully functioning mining pool server that they could share a link to with their peers. All dependencies and prerequisites should be included in the build process. This project would offer an assurance that in the event Bitcoin mining pools fall victim to authoritative regimes anyone could quickly spin up alternative pools thus mimicking the effect of cutting off the head of a Hydra where two heads grow back. The open-source nature makes integrating it in a variety of ways possible; giving end-users complete control over all variables of their mining environments. 
 
